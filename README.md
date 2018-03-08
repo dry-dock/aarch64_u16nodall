@@ -1,4 +1,4 @@
-# u16nodall
+# aarch64_u16nodall
 Docker image with aarch64 ubuntu 16.04 + nodejs + all services &amp; tools
 
 Shippable CI image for node.js on ubuntu 16.04 with commonly used services. Available versions are:
@@ -14,4 +14,4 @@ Shippable CI image for node.js on ubuntu 16.04 with commonly used services. Avai
   
 **Services:**
 
-Please refer [u16all](https://github.com/dry-dock-aarch64/u16all) for a list of supported services
+Please refer [u16all](https://github.com/dry-dock/aarch64_u16all) for a list of supported services
