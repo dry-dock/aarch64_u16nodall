@@ -25,8 +25,8 @@ nvm use 8.9.4
 which node && node -v
 printf "\n"
 
-echo "nvm use 9.5.0"
-nvm use 9.5.0
+echo "nvm use 9.11.1"
+nvm use 9.11.1
 which node && node -v
 printf "\n"
 
