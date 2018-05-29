@@ -6,9 +6,12 @@ echo "================= Updating global nodejs packages ==================="
 npm install -g \
   grunt-cli@1.2.0 \
   mocha@5.0.5 \
-  vows@0.8.1 \
+  vows@0.8.2 \
   casperjs@1.1.4 \
   bower@1.8.4
+  
+  npm install -g --unsafe-perm \
+  phantomjs-prebuilt@2.1.16 
 
 
 for file in /u16nodall/version/*;
