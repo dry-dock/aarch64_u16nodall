@@ -9,10 +9,6 @@ npm install -g \
   vows@0.8.2 \
   casperjs@1.1.4 \
   bower@1.8.4
-  
-  npm install -g --unsafe-perm \
-  phantomjs-prebuilt@2.1.16 
-
 
 for file in /u16nodall/version/*;
 do
