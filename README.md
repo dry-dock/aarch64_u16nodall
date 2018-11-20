@@ -9,7 +9,7 @@ Shippable CI image for node.js on ubuntu 16.04 with commonly used services. Avai
   3.  10.12.0
   4.  11.1.0
   
- ubuntu 16.04 for ARM 64 architecture Docker Hub repo: [drydock/aarch64_u16nodall](https://hub.docker.com/r/drydock/aarch64_u16nodall/)
+ u16nodall for ARM 64 architecture Docker Hub repo: [drydock/aarch64_u16nodall](https://hub.docker.com/r/drydock/aarch64_u16nodall/)
 
   
 **Services:**
